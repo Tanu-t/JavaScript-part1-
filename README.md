@@ -1,2 +1,2 @@
-# JavaScript-part1-
+# JavaScript-part1
 learn basic javascript 
